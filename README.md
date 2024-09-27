@@ -12,18 +12,19 @@ explain
 
 
 project structure
-
-/twitter-clone
-  ├── /public
-  │   ├── index.html
-  │   ├── style.css
-  │   └── app.js
-  ├── /server
-  │   ├── server.js
-  │   ├── models
-  │   │   └── User.js
-  │   │   └── Post.js
-  │   └── routes
-  │       └── auth.js
-  │       └── posts.js
+---------------------------------------------------
+/twitter-clone<br />
+  ├── /public<br />
+  │   ├── index.html<br />
+  │   ├── style.css<br />
+  │   └── app.js<br />
+  ├── /server<br />
+  │   ├── server.js<br />
+  │   ├── models<br />
+  │   │   └── User.js<br />
+  │   │   └── Post.js<br />
+  │   └── routes<br />
+  │       └── auth.js<br />
+  │       └── posts.js<br />
   ├── package.json
+<br />
