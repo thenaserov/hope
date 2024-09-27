@@ -13,7 +13,7 @@ explain
 
 project structure
 ---------------------------------------------------
-/twitter-clone<br />
+/my-social-network<br />
   ├── /public<br />
   │   ├── index.html<br />
   │   ├── style.css<br />
